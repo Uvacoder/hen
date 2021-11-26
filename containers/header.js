@@ -12,7 +12,7 @@ function Header({ ...props }) {
               <small>
                 2021 - present &copy;{" "}
                 <a className="link-underline" href="https://reaper.im">
-                  Reaper
+                  abcReaper
                 </a>
               </small>
             </p>
